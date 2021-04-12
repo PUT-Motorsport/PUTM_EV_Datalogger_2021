@@ -51,10 +51,12 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-*/Drivers/
-*/Debug/
-*/.project
-*/.mxproject
+Drivers
+Debug
+FATFS
+Middlewares
+.project
+.mxproject
 *.ld
 *.launch
 *.cfg
